@@ -1,6 +1,7 @@
+import telebot
 from covid import Covid
 from telebot import types
-import telebot
+
 
 covid = Covid(source='worldometers')
 
