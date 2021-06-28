@@ -1,4 +1,4 @@
-# TelegramBot
+# Covid19-telegram-bot
 Bu bo'limda siz koplab botlarni kodni bepul topishiz mumkin. Ularni qanday foydalanish esa @turdibekdev telegram kanalida...
 
 Kutubxonalarni yuklash:
